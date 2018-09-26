@@ -1,0 +1,8 @@
+MacBook-Pro:google-websearch-copyright-removals Fox$ grep ".ch" domains.csv > ch.csv
+
+MacBook-Pro:google-websearch-copyright-removals Fox$
+MacBook-Pro:google-websearch-copyright-removals Fox$ wc -l ch.csv
+ 7970488 ch.csv
+MacBook-Pro:google-websearch-copyright-removals Fox$
+
+Anzahl .ch: 7970488
